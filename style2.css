@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.sanphamma11 ul{
+	width:100%;
+	list-style-type:none;
+}
+.sanpham11 ul li{
+	width:200px;
+	height:auto;
+	border:1px solid #FFF;
+	text-align:center;
+	float:left;
+	margin:20px;
+	list-style-type:none;
+}
+.sanpham11 ul li a{
+	text-decoration:none;
+		list-style-type:none;
+
+}
